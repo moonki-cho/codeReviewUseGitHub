@@ -1,2 +1,2 @@
 # codeReviewUseGitHub
-# 수 1
+# 수정 1
